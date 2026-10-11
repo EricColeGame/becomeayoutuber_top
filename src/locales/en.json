@@ -6,7 +6,14 @@
     "description": "Your ultimate guide to Become a Youtuber on Roblox! Explore active codes, equipment upgrades, creator strategies, and progression guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "progression": "Progression",
+    "creator": "Creator",
+    "controls": "Controls",
+    "career": "Career"
+  },
   "home": {
     "meta": {
       "title": "Become a Youtuber Wiki — Codes, Upgrades, Career & Progression Guides",
@@ -347,7 +354,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -376,12 +382,35 @@
     "playGame": "Play on Roblox",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Creator Guide",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Equipment Guides",
-    "bossGuides": "Upgrade Guides",
-    "buildGuide": "Strategy Guide",
+    "beginnerGuide": "Beginner Guides",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "creatorGuides": "Creator Paths",
+    "progressionGuides": "Progression",
+    "codesGuide": "Active Codes"
+  },
+  "guide": {
+    "overviewTitle": "Become a Youtuber Guides",
+    "overviewDescription": "Explore essential walkthroughs, beginner tutorials, and expert tips to build your channel efficiently in Become a Youtuber."
+  },
+  "codes": {
+    "overviewTitle": "Become a Youtuber Codes",
+    "overviewDescription": "Find the latest active promo codes, redeem steps, and rewards to boost your cash and subscriber growth in Become a Youtuber."
+  },
+  "progression": {
+    "overviewTitle": "Become a Youtuber Progression",
+    "overviewDescription": "Master channel upgrades, studio expansion, subscriber milestones, and cash generation strategies in Become a Youtuber."
+  },
+  "creator": {
+    "overviewTitle": "Become a Youtuber Creator Paths",
+    "overviewDescription": "Discover different content styles, editing upgrades, streaming setups, and creator specializations in Become a Youtuber."
+  },
+  "controls": {
+    "overviewTitle": "Become a Youtuber Controls & Settings",
+    "overviewDescription": "Review platform controls, keybinds, mobile settings, and setup configurations for Become a Youtuber on PC, mobile, and console."
+  },
+  "career": {
+    "overviewTitle": "Become a Youtuber Career Strategies",
+    "overviewDescription": "Learn full-time creator management, brand partnerships, viral strategy, and end-game tycoon optimizations in Become a Youtuber."
   }
 }
