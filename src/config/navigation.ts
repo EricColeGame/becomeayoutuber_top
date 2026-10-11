@@ -1,7 +1,9 @@
+import type { ComponentType } from "react";
+
 export interface NavigationItem {
   key: string;
   path: `/${string}`;
-  icon?: any;
+  icon?: ComponentType<{ className?: string }>;
   isContentType?: boolean;
 }
 
