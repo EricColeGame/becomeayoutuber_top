@@ -1,1 +1,416 @@
-{}
+{
+  "site": {
+    "name": "Wiki Become um Youtuber",
+    "shortName": "Become a Youtuber",
+    "tagline": "Guias Completos, Códigos, Melhorias e Dicas de Simulador",
+    "description": "Seu guia definitivo para Become a Youtuber no Roblox! Descubra códigos ativos, melhorias de equipamentos, estratégias de criador e guias de progressão.",
+    "legalNotice": "Wiki não oficial criada por fãs. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "guide": "Guia",
+    "codes": "Códigos",
+    "progression": "Progressão",
+    "creator": "Criador",
+    "controls": "Controles",
+    "career": "Carreira"
+  },
+  "guide": {
+    "overviewTitle": "Guias de Become a Youtuber",
+    "overviewDescription": "Explore tutoriais essenciais, guias para iniciantes e dicas avançadas para desenvolver seu canal com eficiência em Become a Youtuber."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Become a Youtuber",
+    "overviewDescription": "Encontre os códigos promocionais ativos mais recentes, passos para resgate e recompensas para acelerar seu dinheiro e inscritos em Become a Youtuber."
+  },
+  "progression": {
+    "overviewTitle": "Progressão em Become a Youtuber",
+    "overviewDescription": "Domine melhorias de canal, expansão de estúdio, metas de inscritos e estratégias de geração de dinheiro em Become a Youtuber."
+  },
+  "creator": {
+    "overviewTitle": "Caminhos de Criador em Become a Youtuber",
+    "overviewDescription": "Descubra diferentes estilos de conteúdo, melhorias de edição, setups de streaming e especializações de criador em Become a Youtuber."
+  },
+  "controls": {
+    "overviewTitle": "Controles e Configurações de Become a Youtuber",
+    "overviewDescription": "Consulte controles de plataforma, atalhos de teclado, configurações móveis e configurações de setup para Become a Youtuber no PC, celular e console."
+  },
+  "career": {
+    "overviewTitle": "Estratégias de Carreira em Become a Youtuber",
+    "overviewDescription": "Aprenda gerenciamento de criador em tempo integral, parcerias de marcas, estratégia viral e otimizações de magnata no endgame de Become a Youtuber."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível no momento. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki Become um Youtuber",
+    "about": "A Wiki Become um Youtuber é uma central independente criada por fãs que aborda rotas de progressão, melhorias de equipamentos, estratégias de criador e conhecimentos essenciais tanto para novatos quanto para veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wiki Become um Youtuber. Não é afiliado ao Roblox ou aos desenvolvedores do jogo.",
+    "description": "Jogo simulador de criador no Roblox. Construa uma carreira, conquiste inscritos e aprimore equipamentos.",
+    "playGame": "Jogar no Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "beginnerGuide": "Guias para Iniciantes",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "creatorGuides": "Caminhos de Criador",
+    "progressionGuides": "Progressão",
+    "codesGuide": "Códigos Ativos"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki Become um Youtuber — Códigos, Melhorias, Carreira e Guias de Progressão",
+      "description": "Domine Become a Youtuber no Roblox com códigos ativos válidos, tutoriais para iniciantes, listas de níveis de melhorias de estúdio e estratégias para ganhar dinheiro."
+    },
+    "hero": {
+      "eyebrow": "Jogo Simulador de YouTuber",
+      "title": "Wiki Become um Youtuber",
+      "description": "Become a Youtuber é um jogo de simulação de criadores onde os jogadores constroem uma carreira no YouTube, criam conteúdo, aumentam inscritos, melhoram equipamentos e se tornam influenciadores digitais de sucesso.",
+      "stats": [
+        "10M+ Visitas",
+        "100+ Itens",
+        "0 Códigos Ativos",
+        "Atualizações Semanais"
+      ],
+      "primaryCta": "Guia para Iniciantes",
+      "secondaryCta": "Guia de Melhorias",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Navegar por Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Become a Youtuber",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda o ciclo básico de gameplay: desde a gravação do primeiro vídeo até a edição, publicação e crescimento do público inicial."
+        },
+        {
+          "number": "2",
+          "title": "Subir de Nível Rápido",
+          "description": "Acelere as metas de inscritos do canal com formatos de vídeo de alta retenção e ritmo de gravação ideal."
+        },
+        {
+          "number": "3",
+          "title": "Melhores Formas de Renda",
+          "description": "Maximize dinheiro no jogo e impulsione visualizações com estúdios de alto nível e estações de trabalho aprimoradas."
+        },
+        {
+          "number": "4",
+          "title": "Todos os Códigos e Resgate",
+          "description": "Resgate códigos promocionais ativos para injeções gratuitas de dinheiro, multiplicadores de inscritos e bônus de estúdio."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta no Momento",
+      "quickLinks": [
+        "Guia para Iniciantes",
+        "Códigos Ativos",
+        "Melhorias de Estúdio",
+        "Ganhar Dinheiro"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Tudo o que você precisa para lançar seu canal, gravar vídeos e dominar a mecânica de criador.",
+          "href": "/guide/become-a-youtuber-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Códigos promocionais em funcionamento com recompensas gratuitas de dinheiro e bônus de visualizações para resgate imediato.",
+          "href": "/codes/become-a-youtuber-codes"
+        },
+        {
+          "badge": "Progressão",
+          "title": "Guia para Ganhar Dinheiro",
+          "description": "Escale sua renda digital por meio de metas do AdSense, parcerias de afiliados e patrocínios de alta margem.",
+          "href": "/progression/become-a-youtuber-make-money"
+        },
+        {
+          "badge": "Criador",
+          "title": "Guia de YouTuber Gamer",
+          "description": "Construa uma audiência de games engajada com transmissões ao vivo e edições de gameplay de alta retenção.",
+          "href": "/creator/become-a-youtuber-gaming-youtuber"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Become a Youtuber?",
+      "paragraphs": [
+        "Become a Youtuber é um jogo imersivo de simulação de criadores onde os jogadores assumem o papel de um aspirante a produtor de vídeos digitais. Começando em um quarto simples com ferramentas básicas de gravação, seu objetivo é gravar vídeos em alta, editar gravações, manter publicações frequentes e construir uma comunidade fiel de inscritos.",
+        "Conforme seu canal cresce, reinvista a receita de anúncios e patrocínios em câmeras profissionais, microfones de estúdio, computadores avançados de edição e salas exclusivas para subir nos rankings globais de criadores."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulador de Criador"
+        },
+        {
+          "label": "Total de Visitas",
+          "value": "10M+"
+        },
+        {
+          "label": "Itens Disponíveis",
+          "value": "100+"
+        },
+        {
+          "label": "Códigos Ativos",
+          "value": "Disponíveis"
+        },
+        {
+          "label": "Atualizações",
+          "value": "Semanais"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explorar a Wiki Become um Youtuber",
+      "description": "Domine sua carreira de criador digital com guias completos de progressão, códigos ativos válidos, listas de níveis de equipamentos e estratégias de monetização.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Become a Youtuber",
+          "description": "Confira os códigos de resgate mais recentes, recompensas disponíveis e métodos de ativação para conseguir dinheiro grátis, bônus e itens de progressão.",
+          "href": "/codes/become-a-youtuber-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RELEASE",
+              "detail": "Resgate dinheiro grátis e bônus de equipamentos iniciais de gravação"
+            },
+            {
+              "label": "BOOST",
+              "detail": "Ative um multiplicador de 1,5x de ganho de inscritos por 30 minutos"
+            },
+            {
+              "label": "STUDIO",
+              "detail": "Desbloqueie cosméticos exclusivos para o cenário inicial do estúdio"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para Iniciantes de Become a Youtuber",
+          "description": "Entenda o ciclo principal do jogo, incluindo gravação de vídeos, ganhos financeiros, obtenção de inscritos e melhoria de equipamentos.",
+          "href": "/guide/become-a-youtuber-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Escolha seu nicho inicial e monte sua mesa básica de gravação"
+            },
+            {
+              "label": "2",
+              "detail": "Grave clipes de vídeo e equilibre o ritmo para manter a retenção dos espectadores"
+            },
+            {
+              "label": "3",
+              "detail": "Edite o material na sua estação de trabalho e publique para acionar o algoritmo"
+            },
+            {
+              "label": "4",
+              "detail": "Reinvista a receita inicial em computadores de renderização rápida e microfones"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de Melhorias de Become a Youtuber",
+          "description": "Conheça melhorias cruciais como câmeras, microfones, computadores, estúdios e outros equipamentos que aumentam a velocidade de criação.",
+          "href": "/guide/become-a-youtuber-step-by-step",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Microfones",
+              "detail": "Microfones de transmissão de alta clareza para eliminar ruídos de gravação"
+            },
+            {
+              "label": "Câmeras",
+              "detail": "Sensores cinematográficos 4K que elevam as avaliações visuais da produção"
+            },
+            {
+              "label": "PCs",
+              "detail": "Máquinas de renderização de alto desempenho que reduzem o tempo de edição"
+            },
+            {
+              "label": "Estúdio",
+              "detail": "Ambientes de gravação ampliados com tratamento acústico profissional"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de Dinheiro de Become a Youtuber",
+          "description": "Veja os melhores métodos para ganhar moedas do jogo e multiplicar a renda através de vídeos melhores e crescimento do canal.",
+          "href": "/progression/become-a-youtuber-make-money",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "AdSense",
+              "detail": "Monetize visualizações do catálogo com receita contínua e automatizada de anúncios"
+            },
+            {
+              "label": "Afiliados",
+              "detail": "Integre links de recomendação de produtos em tutoriais para obter alto RPM"
+            },
+            {
+              "label": "Patrocínios",
+              "detail": "Feche contratos lucrativos de marcas ao atingir metas de visualizações"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Tier List de Equipamentos de Become a Youtuber",
+          "description": "Classifique equipamentos de gravação e melhorias de setup com base no desempenho e custo-benefício de progressão.",
+          "href": "/guide/become-a-youtuber-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Rigs de renderização com PC duplo e microfones XLR profissionais"
+            },
+            {
+              "label": "A",
+              "detail": "Câmeras Mirrorless 4K e iluminação de estúdio Softbox dedicada"
+            },
+            {
+              "label": "B",
+              "detail": "Microfones condensadores USB e computadores gamer intermediários"
+            },
+            {
+              "label": "C",
+              "detail": "Câmeras básicas de smartphone e microfones de headset padrão"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de Inscritos de Become a Youtuber",
+          "description": "Entenda como funcionam inscritos e visualizações, incluindo métodos para acelerar o crescimento do seu canal virtual.",
+          "href": "/progression/become-a-youtuber-earn-money",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Retenção",
+              "detail": "Introduções envolventes elevam as taxas de retenção no algoritmo"
+            },
+            {
+              "label": "Miniaturas",
+              "detail": "Thumbnails personalizadas de alto contraste aumentam a taxa de cliques"
+            },
+            {
+              "label": "Consistência",
+              "detail": "Ciclos regulares de publicação desbloqueiam ganhos exponenciais de inscritos"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Atualizações de Become a Youtuber",
+          "description": "Reúna novidades oficiais do jogo, novos recursos e comunicados importantes do desenvolvedor ou da página do Roblox.",
+          "href": "/guide/become-a-youtuber-from-scratch",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Ajustes regulares de balanceamento na mecânica de gravação e recompensas"
+            },
+            {
+              "label": "Novos Itens",
+              "detail": "Novos equipamentos de estúdio, itens de iluminação e visuais de mesa"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Metas especiais por tempo limitado com bônus exclusivos de inscritos"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "FAQ de Gameplay de Become a Youtuber",
+          "description": "Tire dúvidas comuns sobre progressão, melhorias, métodos de ganho e mecânicas do jogo.",
+          "href": "/career/become-a-youtuber-career",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Dinheiro Rápido",
+              "detail": "Foque no envio rápido de vídeos em alta para alavancar a receita inicial"
+            },
+            {
+              "label": "Melhor Setup",
+              "detail": "Priorize clareza do microfone e potência da estação de edição"
+            },
+            {
+              "label": "Crescimento",
+              "detail": "Reinvista os lucros em produção em vez de itens puramente cosméticos"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre Become a Youtuber.",
+      "items": [
+        {
+          "question": "O que é Become a Youtuber?",
+          "answer": "Become a Youtuber é um jogo simulador de criadores onde os jogadores começam do zero para construir uma carreira de sucesso no YouTube, gravar vídeos em alta, aprimorar estúdios e conquistar um grande público virtual de inscritos."
+        },
+        {
+          "question": "Como ganhar dinheiro rapidamente em Become a Youtuber?",
+          "answer": "Em Become a Youtuber, você ganha dinheiro publicando vídeos consistentes de alta retenção, desbloqueando marcas do AdSense, fechando patrocínios e aprimorando seu computador para renderizar conteúdo com rapidez."
+        },
+        {
+          "question": "Onde encontrar códigos válidos para Become a Youtuber?",
+          "answer": "Os códigos ativos para Become a Youtuber são atualizados em nossa página dedicada, concedendo bônus gratuitos de dinheiro, multiplicadores temporários de inscritos e melhorias de estúdio."
+        },
+        {
+          "question": "Quais melhorias de equipamento devo comprar primeiro em Become a Youtuber?",
+          "answer": "Ao jogar Become a Youtuber, priorize investimentos iniciais no microfone e na estação de trabalho de renderização, pois áudio limpo e edição rápida oferecem o maior retorno sobre o investimento."
+        },
+        {
+          "question": "Como os inscritos afetam a progressão em Become a Youtuber?",
+          "answer": "Inscritos em Become a Youtuber desbloqueiam níveis mais altos de monetização, expansões de estúdio, placas comemorativas de criador e maior alcance algorítmico na plataforma virtual."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Become a Youtuber?",
+      "description": "Desde a gravação do seu primeiro vídeo até o status de fenômeno viral, nossa wiki da comunidade traz guias gratuitos e atualizados para você.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  }
+}
